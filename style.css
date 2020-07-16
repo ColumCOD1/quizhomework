@@ -1,11 +1,12 @@
-#quiz{
-    margin: auto;
+.container {
     text-align: center;
-}
-main{
-    margin-top: 300px;
-}
-p {
-    font-size: large;
-    
-}
+  }
+  .row {
+    margin: 20px;
+  }
+  #start {
+    margin: auto;
+    padding: 10px 30px 10px 30px;
+  }
+body {
+    background: blue;}
